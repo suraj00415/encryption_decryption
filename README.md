@@ -21,7 +21,7 @@ Ensure you have the following installed:
     Begin by cloning the repository to your local machine:
 
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/suraj00415/encryption_decryption.git
     cd encryption_decryption
     ```
 
